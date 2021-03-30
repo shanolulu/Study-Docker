@@ -15,5 +15,3 @@ if '사용불가' 상태:
 5. temianl을 실행하여 docker run Hello-World를 실행 후 결과 확인
 6. docker ps를 통해 실행된 프로세스의 정보를 확인
 7. 실행된 프로세스는 kitematic에서 확인 할 수 가능 # kitematic: docker에서 사용하는 명령어를 GUI로 만들어둔 것
-
-사진은 이후 첨부 ..
